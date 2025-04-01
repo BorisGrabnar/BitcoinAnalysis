@@ -1,3 +1,13 @@
+# 📈 Bitcoin Price and Trading Volume Analysis (February 2025)
+
+![Bitcoin Price Chart](visuals/bitcoin_feb2025.png)  
+*Line chart showing predicted Bitcoin price trends for February 2025. Created in Excel.*
+
+## 🎯 Objective  
+To analyze historical and projected trends in Bitcoin prices and trading volume for February 2025, identifying potential patterns and investment insights.
+
+## 📂 Project Structure  
+
 ## 🔧 Methodology  
 1. **Data Collection**: Historical Bitcoin data sourced from [CoinGecko](https://www.coingecko.com/) (include direct link if possible).  
 2. **Tools Used**:  
