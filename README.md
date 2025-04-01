@@ -33,8 +33,11 @@ To analyze historical and projected trends in Bitcoin prices and trading volume 
 
 ## 🙋 About the Author  
 **Boris Grabnar** | Aspiring Data Analyst  
-- 💼 Skills: Excel, Python (Pandas), SQL, Data Visualization  
-- 🌱 Currently learning: Power BI, Machine Learning  
+- 💼 Skills: Excel, Python (Pandas), SQL, Data Visualization
+- 🌱 Currently learning: Power BI, Machine Learning
+
+  Disclaimer  
+This analysis uses hypothetical data for educational purposes. Actual Bitcoin prices may vary. 
 - 📫 Contact: [LinkedIn](your-linkedin-link) | [Personal Website](your-website)  
 
 ---
